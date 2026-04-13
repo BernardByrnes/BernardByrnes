@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=650&lines=Frontend+Developer;Data+Visualization+Engineer;React+%2F+Next.js+%2F+TypeScript;Building+interfaces+that+feel+alive." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=750&lines=Data+Visualization+Engineer;I+turn+data+into+interactive+stories;10M%2B+events%2Fday+visualized+in+real-time;React+%2F+Next.js+%2F+TypeScript" alt="Typing SVG" />
 
 <br/>
 
@@ -12,13 +12,26 @@
 
 ### Hey, I'm Bernard 👋
 
-Frontend Developer based in **Kampala, Uganda** — I build high-performance dashboards, editorial platforms, and animated interfaces that sit at the intersection of design and engineering.
+Frontend Developer based in **Kampala, Uganda** — I turn complex data into fast, interactive interfaces that feel alive.
 
-- 🔭 Visualization Engineer at **Thraets** — translating complex datasets into visual narratives
+From real-time dashboards processing **10M+ events/day** to cinematic web experiences, I focus on performance, motion, and clarity.
+
+- 🔭 Worked as Visualization Engineer at **Thraets** — translating complex datasets into visual narratives
 - 🏗️ Leading frontend on an enterprise **LMS for Tasc Corporation** (React 19 + PostgreSQL)
 - 📊 Built real-time inventory dashboards processing **10M+ events/day** via Kafka + WebSockets
 - 🎓 Refactory Academy — Software Engineering, capstone ranked **top 10% of cohort**
 - 🌍 Open to full-time & freelance roles — **open to remote work**
+
+---
+
+### $ whoami
+
+```bash
+> Bernard Mutambo
+> Frontend Developer / Data Visualization Engineer
+> Focus: Real-time dashboards, motion, performance
+> Status: Open to remote opportunities
+```
 
 ---
 
@@ -70,10 +83,10 @@ Frontend Developer based in **Kampala, Uganda** — I build high-performance das
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Thraets**](https://muhoozibobicharts2.netlify.app) | Interactive editorial data viz platform — charts, filters, animated transitions | React · D3.js · Recharts · ClickHouse |
-| [**SwiftLogistics Dashboard**](https://swiftlogisticslive.netlify.app) | Real-time inventory & operational analytics with live WebSocket feeds | React · Recharts · WebSockets · Kafka |
-| [**Tasc LMS**](https://www.tasclms.com) | Enterprise learning platform — RBAC, video, quizzes, progress analytics | React 19 · Node.js · PostgreSQL · Cloudinary |
-| [**GTA IV Clone**](https://gtavimay.netlify.app) | Cinematic site with GSAP parallax, scroll-based animations, and motion design | React · GSAP · Tailwind · Vite |
+| [**Thraets**](https://muhoozibobicharts2.netlify.app) | Data storytelling platform with animated charts, dynamic filters, and smooth transitions | React · D3.js · Recharts · ClickHouse |
+| [**SwiftLogistics Dashboard**](https://swiftlogisticslive.netlify.app) | Real-time operational dashboard visualizing live inventory streams (Kafka + WebSockets) at scale | React · Recharts · WebSockets · Kafka |
+| [**Tasc LMS**](https://www.tasclms.com) | Enterprise LMS with RBAC, video delivery, quizzes, and analytics dashboards | React 19 · Node.js · PostgreSQL · Cloudinary |
+| [**GTA IV Clone**](https://gtavimay.netlify.app) | Cinematic web experience with scroll-driven animations and GSAP motion design | React · GSAP · Tailwind · Vite |
 
 ---
 
