@@ -40,29 +40,35 @@ Data Engineer & Frontend Engineer based in **Kampala, Uganda** — I build data 
 
 **Data Engineering**
 
-Python · SQL · PostgreSQL · Linux · Bash · Docker · Kafka · PySpark · ClickHouse
-
 <br/>
+
+<img src="https://skillicons.dev/icons?i=python,postgres,linux,bash,docker&theme=dark" alt="Python, PostgreSQL, Linux, Bash and Docker" />
+
+<br/><br/>
 
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FAFF69?style=flat-square&logo=clickhouse&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-<br/>
+<br/><br/>
 
 **Frontend Engineering**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
-
 <br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind&theme=dark" alt="React, Next.js, JavaScript, TypeScript and Tailwind CSS" />
+
+<br/><br/>
 
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
-<br/>
+<br/><br/>
 
 **Backend & Tools**
 
-<img src="https://skillicons.dev/icons?i=nodejs,git,githubactions&theme=dark" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=django,nodejs,git,githubactions&theme=dark" alt="Django, Node.js, Git and GitHub Actions" />
 
 </div>
 
@@ -103,4 +109,3 @@ Python · SQL · PostgreSQL · Linux · Bash · Docker · Kafka · PySpark · Cl
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BernardByrnes&style=flat-square&color=667eea&label=profile+views" alt="Profile views" />
 </div>
-
