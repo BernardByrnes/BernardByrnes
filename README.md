@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=750&lines=Data+Engineer+%2B+Frontend+Engineer;Building+data+pipelines+%26+modern+web+applications;Python+%C2%B7+SQL+%C2%B7+React+%C2%B7+Next.js;Linux+%C2%B7+Docker+%C2%B7+Kafka+%C2%B7+PySpark" alt="Data Engineer and Frontend Engineer typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=750&lines=Data+Engineer+%2B+Frontend+Engineer;Building+data+pipelines+%26+modern+web+apps;Python+%C2%B7+SQL+%C2%B7+React+%C2%B7+Next.js;Linux+%C2%B7+Docker+%C2%B7+Kafka+%C2%B7+PySpark" alt="Data Engineer and Frontend Engineer typing header" />
 
 <br/>
 
