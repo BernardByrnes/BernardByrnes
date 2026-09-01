@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=750&lines=Data+Visualization+Engineer;I+turn+data+into+interactive+stories;10M%2B+events%2Fday+visualized+in+real-time;React+%2F+Next.js+%2F+TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=750&lines=Data+Engineer+%2B+Frontend+Engineer;Building+data+pipelines+%26+modern+web+applications;Python+%C2%B7+SQL+%C2%B7+React+%C2%B7+Next.js;Linux+%C2%B7+Docker+%C2%B7+Kafka+%C2%B7+PySpark" alt="Data Engineer and Frontend Engineer typing header" />
 
 <br/>
 
@@ -12,14 +12,12 @@
 
 ### Hey, I'm Bernard 👋
 
-Frontend Developer based in **Kampala, Uganda** — I turn complex data into fast, interactive interfaces that feel alive.
+Data Engineer & Frontend Engineer based in **Kampala, Uganda** — I build data pipelines and backend data workflows with Python, SQL, and Linux, then turn those systems into fast, modern web applications with React and Next.js.
 
-From real-time dashboards processing **10M+ events/day** to cinematic web experiences, I focus on performance, motion, and clarity.
-
-- 🔭 Worked as Visualization Engineer at **Thraets** — translating complex datasets into visual narratives
+- 🎨 Frontend engineering with React, Next.js, TypeScript, and GSAP — focused on performance, motion, and clarity
+- 🔧 Building ETL and data-pipeline workflows with Python, SQL, Linux, Docker, and CI/CD
+- 📊 Working with Kafka, PySpark, and data systems for real-time inventory dashboards
 - 🏗️ Leading frontend on an enterprise **LMS for Tasc Corporation** (React 19 + PostgreSQL)
-- 📊 Built real-time inventory dashboards processing **10M+ events/day** via Kafka + WebSockets
-- 🎓 Refactory Academy — Software Engineering, capstone ranked **top 10% of cohort**
 - 🌍 Open to full-time & freelance roles — **open to remote work**
 
 ---
@@ -28,8 +26,9 @@ From real-time dashboards processing **10M+ events/day** to cinematic web experi
 
 ```bash
 > Bernard Mutambo
-> Frontend Developer / Data Visualization Engineer
-> Focus: Real-time dashboards, motion, performance
+> Data Engineer / Frontend Engineer
+> Data: Python, SQL, PostgreSQL, Linux, Bash, Docker, Kafka, PySpark
+> Frontend: React, Next.js, TypeScript, Tailwind, GSAP
 > Status: Open to remote opportunities
 ```
 
@@ -39,28 +38,31 @@ From real-time dashboards processing **10M+ events/day** to cinematic web experi
 
 <div align="center">
 
-**Frontend**
+**Data Engineering**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,framer&theme=dark" />
-
-<br/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,graphql,python&theme=dark" />
+Python · SQL · PostgreSQL · Linux · Bash · Docker · Kafka · PySpark · ClickHouse
 
 <br/>
 
-**Tools**
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FAFF69?style=flat-square&logo=clickhouse&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,vercel,docker,githubactions&theme=dark" />
+<br/>
+
+**Frontend Engineering**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
 
 <br/>
 
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FAFF69?style=flat-square&logo=clickhouse&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+<br/>
+
+**Backend & Tools**
+
+<img src="https://skillicons.dev/icons?i=nodejs,git,githubactions&theme=dark" />
 
 </div>
 
@@ -71,13 +73,6 @@ From real-time dashboards processing **10M+ events/day** to cinematic web experi
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=BernardByrnes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardByrnes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BernardByrnes&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=fb923c&currStreakLabel=667eea" />
 
 </div>
 
@@ -108,3 +103,4 @@ From real-time dashboards processing **10M+ events/day** to cinematic web experi
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BernardByrnes&style=flat-square&color=667eea&label=profile+views" alt="Profile views" />
 </div>
+
